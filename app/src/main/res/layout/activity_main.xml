@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Create Lottery"
-        android:onClick="createLottery"/>
+        android:onClick="CreateLottery"/>
 
     <TextView
         android:id="@+id/LotteryInfo"
